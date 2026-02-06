@@ -1,0 +1,25 @@
+{
+  "06-02-2026": {
+    "ARTHUR PADILHA DE CARVALHO": {
+      "nome": "ARTHUR PADILHA DE CARVALHO",
+      "inicio_exp": "10:28",
+      "inicio_almoco": "15:10",
+      "fim_almoco": "16:10",
+      "fim_exp": "19:10"
+    },
+    "DALTON SYMEY GODOI FONSECA": {
+      "nome": "DALTON SYMEY GODOI FONSECA",
+      "inicio_exp": "",
+      "inicio_almoco": "11:20",
+      "fim_almoco": "12:40",
+      "fim_exp": "17:20"
+    },
+    "GERCIANO GLEY PEREIRA MARQUES FILHO": {
+      "nome": "GERCIANO GLEY PEREIRA MARQUES FILHO",
+      "inicio_exp": "",
+      "inicio_almoco": "12:43",
+      "fim_almoco": "",
+      "fim_exp": ""
+    }
+  }
+}
